@@ -49,6 +49,6 @@ k.shimizu は、アプリがユーザーに関連するように、および/ま
   
 ## お問い合わせ  
   
-私の利用規約についてご質問やご提案がございましたら、お気軽に support@trid-ltd.com までご連絡ください。
+私の利用規約についてご質問やご提案がございましたら、お気軽に [Facilicお問い合わせ](https://www.facilic.net/) からご連絡ください。
   
 この利用規約ページは、App Privacy Policy Generator によって生成されました
